@@ -9,9 +9,11 @@ Modern Architecture: For current generation devices.
 
 https://www.mediafire.com/file/v8dchbdefv33h7u/mye2-p1.apk/file
 
-How to update: Use the automatic update feature within the app, or download the appropriate APK file for your specific device model.
+You can update directly via the In-App Updater or manually download the specific version compatible with your phone.
+
 
 What's New in Version 1.0.4
+
 
 🚀 Connectivity & Setup
 

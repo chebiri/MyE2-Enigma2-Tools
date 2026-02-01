@@ -1,9 +1,12 @@
 Compatibility & Download:
+
 This update is available in two variants:
 Legacy Support: For pre-2018 devices.
+
 https://www.mediafire.com/file/v8dchbdefv33h7u/mye2-p1.apk/file
 
 Modern Architecture: For current generation devices.
+
 https://www.mediafire.com/file/v8dchbdefv33h7u/mye2-p1.apk/file
 
 How to update: Use the automatic update feature within the app, or download the appropriate APK file for your specific device model.
